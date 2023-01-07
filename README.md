@@ -1,20 +1,18 @@
 # Blood-Bank-Management-System 
 This website acts like a medium/an intermediate between hospitals/clinics and donors/receivers.
-
-## Basic functionalities:
 This project is created for two users: Donors/Receivers and Hospitals/Clinics(Doctors), where a Hospital user can add blood sample to their blood bank, request for blood, check status of their request, update their details, etc. The donor/receiver can also do the same.
  
-## :information_source: Languages/technologies used:
+## Languages/technologies used:
 1. Frontend: HTML, CSS, Bootstrap, JavaScript.
 2. Backend: Database-MySQL.
 3. Frontend-Backend connection: PHP.
 
-## :exclamation: Requirements
+## Requirements
 1. Xampp Software
 2. Visual studio code software or any software supporting php, html, css
 3. Java Jdk( Java Development Kit)
 
-## :question: How to start?
+## How to start?
 1. Download this code as a zip file.
 2. Place this entire folder in htdocs, in xampp(xampp path, installed as per your installation). 
 3. Open Xampp server, start Apache, MySQL.
