@@ -38,5 +38,5 @@ This project is created for two users: Donors/Receivers and Hospitals/Clinics(Do
 Report [here](https://github.com/tapasvi1804/Blood-Bank-Management/issues)
 
 ## If you liked the project and found it helpful
-Give a start 😄:star:
+Give a star :star:
 
