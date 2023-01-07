@@ -30,7 +30,7 @@ This project is created for two users: Donors/Receivers and Hospitals/Clinics(Do
 
 ## 	:people_holding_hands: Team:
 - Taraka Tapasvi Yalamarthy - [Tapasvi](https://github.com/tapasvi1804)
-- Yaswanth Srinivas - [Yaswanth]
+- Yaswanth Srinivas - [Yaswanth](https://github.com/velamatiyashwanth)
 
 ## ✉️ Have an issues or a bug? Would like to contact?
 Report [here](https://github.com/tapasvi1804/Blood-Bank-Management/issues)
